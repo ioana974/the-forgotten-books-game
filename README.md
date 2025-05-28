@@ -4,24 +4,10 @@
 
 ## Gameplay Features
 
-- 🏰 Explore hand-crafted medieval levels
-- 🧠 Solve language puzzles in English and Romanian
-- 📖 Collect ancient books and uncover secrets
-- 🧙‍♂️ Avoid goblins who try to steal your progress
-- 🎓 Educational content hidden in fun challenges
-
-## Technologies Used
-
-- HTML5, CSS3, JavaScript (Vanilla)
-- Custom SVG animations and sound effects
-- Full bilingual support (EN / RO)
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ioana974/the-forgotten-books-game.git
-
-
+- Explore hand-crafted medieval levels
+- Solve language puzzles in English and Romanian
+- Collect ancient books and uncover secrets
+- Avoid goblins who try to steal your progress
+- Educational content hidden in fun challenges
 
 v1.0-alpha
